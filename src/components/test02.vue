@@ -2,6 +2,7 @@
   <div>
     test02
     finish02
+    测试通过
   </div>
 </template>
 
