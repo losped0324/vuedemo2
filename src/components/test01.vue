@@ -1,5 +1,7 @@
 <template>
-  <div>test01</div>
+  <div>test01
+    01完成
+  </div>
 </template>
 
 <script>
