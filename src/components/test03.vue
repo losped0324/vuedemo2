@@ -2,6 +2,7 @@
   <div>
     test03
     功能3完成
+    测试通过
   </div>
 </template>
 
